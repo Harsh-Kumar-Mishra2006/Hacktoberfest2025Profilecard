@@ -61,5 +61,14 @@
     "github_profile_url": "https://github.com/seobysoumik",
     "project_netlify_link": "https://soumik-profile-card.netlify.app/",
     "tags": ["animated", "light-theme"]
+  },
+  {
+    "name": "Harsh Kumar Mishra",
+    "occupation": "Full-Stack Developer",
+    "place": "Darbhanga, India",
+    "bio": "Beginner Full-Stack Developer crafting digital experiences from front-end elegance to back-end robustness. Transforming ideas into scalable, user-centric applications with modern technologies.",
+    "github_profile_url": "https://github.com/Harsh-Kumar-Mishra2006",
+    "project_netlify_link": "https://harsh-profilecard.netlify.app/",
+    "tags": [ "animated", "dark-theme"]
   }
 ]
